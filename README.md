@@ -1,4 +1,4 @@
-# ETL
+# NBA Player Statistics ETL Project
 
 ## PROJECT SUMMARY
 
