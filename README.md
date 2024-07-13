@@ -1,12 +1,12 @@
-# NBA Player Statistics ETL Project
+# NBA Player Statistics ETL
 
 ## PROJECT SUMMARY
 
-The mission of our project was to combine as many data sources as we could find online to create a thorough and comprehensive database of information about every NBA player that was active during the 2018-2019 season.
+To combine all accessible many datasets on Kaggle to create a comprehensive database of information about every NBA player that was active during the 2018-2019 season.
 
 ## POST-MORTEM
 
-### Final record count: 643.
+### Final record count: 643
 
 With working with large datasets from multiple sources, one of the biggest challenges faced is confirming the integrity and compatibility of each set. Our final database includes many NaN values, as the hobbyist data from data.world were found to be incomplete and/or outdated.
 
